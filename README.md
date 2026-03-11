@@ -12,23 +12,24 @@ This is the **official GitHub account of aqsa-hafeez**.
 
 ---
 
+
 ## 💫 About Me
-I am **Aqsa Hafeez (aqsa-hafeez)**, a dedicated **Artificial Intelligence Engineer** specializing in Vision-Language Models (VLMs), real-time surveillance systems, and high-performance AI backends.
+I am **Aqsa Hafeez (aqsa-hafeez)**, a dedicated **Artificial Intelligence Engineer** specializing in Large Language Models (LLMs), high-performance backend.
 
-I graduated with a **Bachelor's in Artificial Intelligence** from **COMSATS University Islamabad**, where I developed a deep passion for bridging the gap between advanced research and practical, local AI implementations.
+I graduated with a **Bachelor's in Artificial Intelligence** from **COMSATS University Islamabad**, where I developed a deep passion for building scalable and efficient AI implementations.
 
-- 🔭 **Expertise:** Production-ready backends using **FastAPI** and intelligent surveillance pipelines (**YOLOv8 + RAFT**).
-- 🧠 **Advocacy:** Strong advocate for **Local AI Ecosystems**, focusing on privacy-centric models without cloud dependencies.
-- 🚀 **Focus:** Solving high-impact engineering problems—from data pipelines to deployment.
+- 🔭 **Expertise:** Building production-ready backends using **FastAPI** and architecting robust AI pipelines.
+- 🧠 **Advocacy:** Strong advocate for **Local AI Ecosystems**, focusing on privacy-centric models and efficient local inference.
+- 🚀 **Focus:** Solving complex engineering problems—from data processing to seamless model deployment.
 
 ---
 
 ## 🚀 Core Strengths
-- **Vision-Language Models (VLMs):** Fine-tuning and deploying InternVL2, Qwen2.5-VL, and LLaVA.
-- **Computer Vision & Surveillance:** Real-time object detection, abnormal behavior monitoring, and motion estimation.
-- **Backend APIs:** High-performance asynchronous systems using FastAPI and local inference engines.
-- **Generative AI & LLMs:** RAG pipelines, local LLM quantization, and sentiment analysis tools.
-- **Workflow Automation:** End-to-end integration of AI models into professional automated workflows.
+- **Large Language Models (LLMs):** Fine-tuning and deploying models like LLaMA, Qwen, and Mistral.
+- **Backend Architecture:** Designing high-performance asynchronous systems and RESTful APIs using FastAPI.
+- **Generative AI & RAG:** Developing Retrieval-Augmented Generation pipelines and intelligent search systems.
+- **Full-Stack AI:** Integrating AI models into interactive user interfaces using Streamlit and modern frameworks.
+- **Workflow Automation:** Streamlining professional workflows through Python-based automation and tool integration.
 
 ---
 
@@ -68,3 +69,34 @@ I graduated with a **Bachelor's in Artificial Intelligence** from **COMSATS Univ
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aqsa-hafeez&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
